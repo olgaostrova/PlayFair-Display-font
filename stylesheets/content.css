@@ -1,0 +1,832 @@
+/* заголовок */
+.text1 {
+    font-weight: 500;
+    font-size: 130.435px;
+    line-height: 174px;
+    position: absolute;
+    width: 463px;
+    left: 162px;
+    top: 452px;
+}
+/* фрейм подписи к заголовку */
+.tablet1 {
+    position: absolute;
+    left: 191px;
+    top: 839px;
+}
+/* рамка фрейма с подписью к заголовку */
+.tablet1content {
+    position: absolute;
+    width: 338px;
+    height: 61px;
+    left: 0px;
+    top: 0px;
+    border: 2.2px solid #2F2F2F;
+}
+/* подпись к заголовку */
+.tablet1text {
+      position: absolute;
+      width: 250px;
+      left: 44.5px;
+      top: 17px;
+      font-weight: 500;
+      font-size: 21.5px;
+      line-height: 29px;
+      text-align: center;
+      letter-spacing: 0.11em;
+      text-transform: uppercase;
+}
+/* точки в подписи */
+.point1 {
+  position: absolute;
+  left: 20px;
+  top: 22px;
+}
+.point2 {
+  position: absolute;
+  left: 308px;
+  top: 22px;
+}
+/* расположение картинки цветка в бутылке */
+.picture1 {
+  position: absolute;
+  left: 879px;
+  top: 162px;
+}
+/* расположение текста на наклейке */
+.text2 {
+      position: absolute;
+      width: 68px;
+      height: 54px;
+      left: 58.5px;
+      top: 370px;
+      font-style: italic;
+      font-weight: 500;
+      font-size: 25px;
+      line-height: 27px;
+      text-align: center;
+      color: #EFEEEB;
+}
+/* расположение фрейма со стилями */
+.frame2 {
+  position: absolute;
+  width: 500px;
+  height: 677px;
+  left: 719px;
+  top: 649px;
+}
+/* картинка фон для стилей */
+.box1 {
+  position: absolute;
+  left: 0px;
+  top: 1px;
+  mix-blend-mode: darken;
+}
+/* начертания */
+.txt1 {
+  position: absolute;
+  width: 102px;
+  height: 39px;
+  left: 36px;
+  top: 64px;
+  font-weight: 400;
+  font-size: 29px;
+  line-height: 39px;
+}
+.txt2 {
+  position: absolute;
+  width: 110px;
+  height: 39px;
+  left: 36px;
+  top: 114.5px;
+  font-weight: 500;
+  font-size: 29px;
+  line-height: 39px;
+}
+.txt3 {
+  position: absolute;
+  width: 128px;
+  height: 39px;
+  left: 38px;
+  top: 163.5px;
+  font-weight: 600;
+  font-size: 29px;
+  line-height: 39px;
+}
+.txt4 {
+  position: absolute;
+  width: 62px;
+  height: 39px;
+  left: 36.5px;
+  top: 213px;
+  font-weight: 700;
+  font-size: 29px;
+  line-height: 39px;
+}
+.txt5 {
+  position: absolute;
+  width: 137px;
+  height: 39px;
+  left: 36.5px;
+  top: 262px;
+  font-weight: 800;
+  font-size: 29px;
+  line-height: 39px;
+}
+.txt6 {
+  position: absolute;
+  width: 78px;
+  height: 39px;
+  left: 36.5px;
+  top: 312px;
+  font-weight: 900;
+  font-size: 29px;
+  line-height: 39px;
+}
+.txt7 {
+  position: absolute;
+  width: 169px;
+  height: 39px;
+  left: 36px;
+  top: 361px;
+  font-style: italic;
+  font-weight: 400;
+  font-size: 29px;
+  line-height: 39px;
+}
+.txt8 {
+  position: absolute;
+  width: 178px;
+  height: 39px;
+  left: 36px;
+  top: 410px;
+  font-style: italic;
+  font-weight: 500;
+  font-size: 29px;
+  line-height: 39px;
+}
+.txt9 {
+  position: absolute;
+  width: 199px;
+  height: 39px;
+  left: 36px;
+  top: 460px;
+  font-style: italic;
+  font-weight: 600;
+  font-size: 29px;
+  line-height: 39px;
+}
+.txt10 {
+  position: absolute;
+  width: 138px;
+  height: 39px;
+  left: 36px;
+  top: 509px;
+  font-style: italic;
+  font-weight: 700;
+  font-size: 29px;
+  line-height: 39px;
+}
+.txt11 {
+  position: absolute;
+  width: 217px;
+  height: 39px;
+  left: 36px;
+  top: 558px;
+  font-style: italic;
+  font-weight: 800;
+  font-size: 29px;
+  line-height: 39px;
+}
+.txt12 {
+  position: absolute;
+  width: 159px;
+  height: 39px;
+  left: 36px;
+  top: 607px;
+  font-style: italic;
+  font-weight: 900;
+  font-size: 29px;
+  line-height: 39px;
+}
+/* текст после начертаний */
+.text3 {
+  position: absolute;
+  width: 869.22px;
+  height: 105px;
+  left: 283px;
+  top: 1422px;
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 35px;
+  letter-spacing: 0.04em;
+}
+/* наклейки на цветы. общий фрейм */
+.box2 {
+  position: absolute;
+  left: 37px;
+  top: 1633px;
+}
+/* фреймы наклеек */
+.sticker1 {
+  position: absolute;
+  left: 351px;
+  top: 1.5px;
+}
+.sticker2 {
+  position: absolute;
+  left: 5px;
+  top: 38px;
+}
+.sticker3 {
+  position: absolute;
+  left: 5px;
+  top: 276px;
+}
+.sticker4 {
+  position: absolute;
+  left: 360px;
+  top: 275px;
+}
+.sticker5 {
+  position: absolute;
+  left: 360px;
+  top: 513px;
+}
+.sticker6 {
+  position: absolute;
+  left: 50px;
+  top: 516.77px;
+  transform: rotate(19deg);
+}
+/* контент 1 стикера */
+.sticker1name {
+  position: absolute;
+  left: 32px;
+  top: 59px;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 26px;
+  transform: rotate(-14deg);
+}
+.sticker1sign {
+  position: absolute;
+  left: 101px;
+  top: 99px;
+  font-style: italic;
+  font-weight: 400;
+  font-size: 19px;
+  line-height: 26px;
+  transform: rotate(-14deg);
+}
+.sticker1content {
+  position: absolute;
+  width: 282px;
+  height: 45px;
+  left: 60px;
+  top: 162px;
+  font-weight: 400;
+  font-size: 11px;
+  line-height: 141%;
+  text-align: center;
+  letter-spacing: 0.04em;
+  transform: rotate(-14deg);
+}
+/* контент 2 стикера */
+.sticker2name {
+  position: absolute;
+  left: 64px;
+  top: 66px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 26px;
+}
+.sticker2sign {
+  position: absolute;
+  width: 120px;
+  height: 20px;
+  left: 113px;
+  top: 130px;
+  font-style: italic;
+  font-weight: 400;
+  font-size: 19px;
+  line-height: 107%;
+}
+.sticker2content {
+  position: absolute;
+  width: 270px;
+  height: 15px;
+  left: 41px;
+  top: 186px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 11px;
+  line-height: 141%;
+  text-align: center;
+  letter-spacing: 0.04em;
+}
+/* контент 3 стикера */
+.sticker3name {
+  position: absolute;
+  width: 124px;
+  height: 26px;
+  left: 104px;
+  top: -1250px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 107;
+  text-align: center;
+}
+.sticker3sign {
+  position: absolute;
+  width: 67px;
+  height: 20px;
+  left: 129px;
+  top: 64px;
+  font-style: italic;
+  font-weight: 400;
+  font-size: 19px;
+  line-height: 107%;
+  text-align: center;
+}
+.sticker3content1 {
+  position: absolute;
+  width: 126px;
+  height: 48px;
+  left: 25px;
+  top: 132px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 8px;
+  line-height: 141%;
+  letter-spacing: 0.04em;
+}
+.sticker3content2 {
+  position: absolute;
+  width: 124px;
+  height: 60px;
+  left: 183px;
+  top: 127px;
+  font-style: italic;
+  font-weight: 400;
+  font-size: 8px;
+  line-height: 141%;
+  letter-spacing: 0.04em;
+}
+/* контент 4 стикера */
+.sticker4name {
+  position: absolute;
+  width: 124px;
+  height: 26px;
+  left: 104px;
+  top: 26px;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 107%;
+  text-align: center;
+}
+.sticker4sign {
+  position: absolute;
+  width: 67px;
+  height: 20px;
+  left: 130px;
+  top: 64px;
+  font-style: italic;
+  font-weight: 400;
+  font-size: 19px;
+  line-height: 107%;
+  text-align: center;
+}
+.sticker4content1 {
+  position: absolute;
+  width: 107px;
+  height: 40px;
+  left: 25px;
+  top: 118px;
+  font-style: italic;
+  font-weight: 400;
+  font-size: 7px;
+  line-height: 141%;
+  letter-spacing: 0.04em;
+}
+.sticker4content2 {
+  position: absolute;
+  width: 150px;
+  height: 48px;
+  left: 167px;
+  top: 114px;
+  font-weight: 400;
+  font-size: 8px;
+  line-height: 141%;
+  letter-spacing: 0.04em;
+}
+/* контент 5 стикера */
+.sticker5name {
+  position: absolute;
+  width: 213px;
+  height: 26px;
+  left: 63px;
+  top: 67px;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 107%;
+}
+.sticker5sign {
+  position: absolute;
+  width: 150px;
+  height: 20px;
+  left: 113px;
+  top: 130px;
+  font-style: italic;
+  font-weight: 400;
+  font-size: 19px;
+  line-height: 107%;
+}
+/* контент 6 стикера */
+.sticker6name {
+  position: absolute;
+  width: 124px;
+  height: 26px;
+  left: 184px;
+  top: 84px;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 107%;
+  text-align: center;
+}
+.sticker6sign {
+  position: absolute;
+  width: 67px;
+  height: 20px;
+  left: 211px;
+  top: 119px;
+  font-style: italic;
+  font-weight: 400;
+  font-size: 19px;
+  line-height: 107%;
+  text-align: center;
+}
+.sticker6content1 {
+  position: absolute;
+  width: 110px;
+  height: 40px;
+  left: 30px;
+  top: 28px;
+  font-weight: 400;
+  font-size: 7px;
+  line-height: 141%;
+  text-align: right;
+  letter-spacing: 0.04em;
+}
+.sticker6content2 {
+  position: absolute;
+  width: 124px;
+  height: 60px;
+  left: 18px;
+  top: 137px;
+  font-style: italic;
+  font-weight: 400;
+  font-size: 8px;
+  line-height: 141%;
+  text-align: right;
+  letter-spacing: 0.04em;
+}
+/* цветок в горшке с наклейкой */
+.picture2 {
+  position: absolute;
+  left: 1055px;
+  top: 1735px;
+}
+/* книги */
+.books {
+  position: absolute;
+  left: -7px;
+  top: 2475px;
+}
+/* поддержка языков */
+.language {
+  position: absolute;
+  width: 922px;
+  height: 56px;
+  left: 242px;
+  top: 3211px;
+  font-weight: 500;
+  font-size: 41px;
+  line-height: 56px;
+  text-align: center;
+}
+/* верстка книги */
+.box3 {
+  position: absolute;
+  left: 0px;
+  top: 3309px;
+}
+.book1 {
+  position: absolute;
+  left: 46px;
+  top: 63px;
+}
+.book2 {
+  position: absolute;
+  left: 1013px;
+  top: 27px;
+  transform: rotate(15deg);
+}
+.book3 {
+  position: absolute;
+  left: 359px;
+  top: 568px;
+}
+.book4 {
+  position: absolute;
+  left: -5px;
+  top: 524px;
+
+}
+.book5 {
+  position: absolute;
+  left: 988px;
+  top: 570px;
+}
+.book6 {
+  position: absolute;
+  left: 1126px;
+  top: 570px;
+}
+/* инфо о символах */
+.text4 {
+  position: absolute;
+  width: 405px;
+  height: 112px;
+  left: 161px;
+  top: 4432px;
+  font-weight: 500;
+  font-size: 42px;
+  line-height: 56px;
+}
+/* летающие буквы */
+.aa {
+  position: absolute;
+  left: 1120px;
+  top: 4220px;
+}
+.q {
+  position: absolute;
+  left: 0px;
+  top: 4544px;
+}
+.u {
+  position: absolute;
+  left: 883px;
+  top: 4807px;
+}
+/* табличка с буквами */
+.tablet {
+  position: absolute;
+  left: 480px;
+  top: 4425px;
+}
+.letters {
+  position: absolute;
+  left: 530px;
+  top: 4808px;
+}
+/* композиция в конце */
+.comp {
+  position: absolute;
+  left: 137px;
+  top: 5278px;
+}
+.flyerfront {
+  position: absolute;
+  left: 3px;
+  top: 320px;
+}
+.flyerback {
+  position: absolute;
+  left: 603px;
+  top: 618px;
+}
+.textafter {
+  position: absolute;
+  width: 508px;
+  height: 489px;
+  left: 3px;
+  top: 1107px;
+  font-style: italic;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 141%;
+  letter-spacing: 0.04em;
+}
+/* флаер спереди */
+.bottom {
+  position: absolute;
+  width: 124px;
+  height: 34px;
+  left: 361px;
+  top: 662px;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 107%;
+}
+.top {
+  position: absolute;
+  width: 119px;
+  height: 34px;
+  left: 14px;
+  top: 11px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 107%;
+  letter-spacing: 0.025em;
+  text-transform: lowercase;
+}
+.cv {
+  position: absolute;
+  width: 177px;
+  height: 129px;
+  left: 27px;
+  top: 190px;
+  font-style: italic;
+  font-weight: 400;
+  font-size: 120px;
+  line-height: 107%;
+  text-transform: lowercase;
+}
+.tov {
+  position: absolute;
+  width: 213px;
+  height: 129px;
+  left: 270px;
+  top: 352px;
+  font-style: italic;
+  font-weight: 400;
+  font-size: 120px;
+  line-height: 107%;
+  text-transform: lowercase;
+}
+/* флаер сзади */
+.txtback {
+  position: absolute;
+  width: 301px;
+  height: 180px;
+  left: 101px;
+  top: 271px;
+}
+.top1 {
+  position: absolute;
+  width: 119px;
+  height: 34px;
+  left: 15px;
+  top: 12px;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 107%;
+  letter-spacing: 0.025em;
+  text-transform: lowercase;
+
+}
+.bottom1 {
+  position: absolute;
+  width: 165px;
+  height: 34px;
+  left: 319.3px;
+  top: 662.61px;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 107%;
+}
+.backname {
+  position: absolute;
+  width: 364px;
+  height: 98px;
+  left: 103px;
+  top: 41px;
+  font-weight: 700;
+  font-size: 46px;
+  line-height: 107%;
+}
+/* наклейки */
+.name1 {
+  position: absolute;
+  left: 576px;
+  top: 3px;
+}
+.name2 {
+  position: absolute;
+  left: 877px;
+  top: 70px;
+}
+.name3 {
+  position: absolute;
+  left: 602px;
+  top: 208px;
+}
+.name4 {
+  position: absolute;
+  left: 599px;
+  top: 441px;
+}
+.name5 {
+  position: absolute;
+  left: 953px;
+  top: 295px;
+}
+.name6 {
+  position: absolute;
+  left: 600px;
+  top: 357px;
+}
+.name7 {
+  position: absolute;
+  left: 917px;
+  top: 195px;
+}
+/* билет спереди */
+.ticketfront {
+  position: absolute;
+  left: 1px;
+  top: 49px;
+}
+.tname {
+  position: absolute;
+  width: 125px;
+  height: 48px;
+  left: 238px;
+  top: 67px;
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 48px;
+  letter-spacing: 0.04em;
+}
+.tsign {
+  position: absolute;
+  width: 113px;
+  height: 13px;
+  left: 243px;
+  top: 110px;
+  font-style: italic;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 106%;
+}
+.tbottom {
+  position: absolute;
+  width: 178px;
+  height: 13px;
+  left: 310px;
+  top: 170px;
+  font-style: italic;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 106%;
+}
+.tright {
+  position: absolute;
+  width: 107px;
+  height: 26px;
+  left: -23px;
+  top: 52px;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 106%;
+  transform: rotate(90deg);
+}
+/* билет сзади */
+.ticketback {
+  position: absolute;
+  left: 592px;
+  top: 1372px;
+}
+.ticketbackname {
+  position: absolute;
+  width: 373px;
+  height: 48px;
+  left: 18px;
+  top: 43px;
+  font-style: italic;
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 48px;
+  letter-spacing: 0.04em;
+  transform: rotate(-7deg);
+}
+.podval1 {
+  position: absolute;
+  left: 137px;
+  top: 6984px;
+}
+.podval2 {
+  position: absolute;
+  width: 337px;
+  height: 72px;
+  left: 890px;
+  top: 7014px;
+  font-weight: 400;
+  font-size: 27px;
+  line-height: 36px;
+}
